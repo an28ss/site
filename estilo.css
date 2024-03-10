@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #aaa9aa;
+    text-align: center;
+}
+
+header {
+    background-color: #4507f0;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 10px;
+    padding: 10px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+footer {
+    background-color: #3809e2;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
